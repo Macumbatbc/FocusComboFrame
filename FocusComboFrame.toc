@@ -1,0 +1,8 @@
+## Interface: 20503
+## Title: Focus Combo Frame
+## Version: 1.0.0
+## Notes: Combo Points for focus frame
+## Author: Carcis (Sulfuras US), modified by Xyz and Macumba
+## OptionalDeps: ZPerl_Target
+FocusComboFrame.lua
+FocusComboFrame.xml
